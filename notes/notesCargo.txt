@@ -1,0 +1,8 @@
+# Create new Rust project:
+$ cargo new <project name>
+
+# Run Rust project:
+$ cargo run
+
+# Run Rust project in quiet mode (no debug info):
+$ cargo run -q
