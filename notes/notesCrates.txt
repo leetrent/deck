@@ -1,0 +1,8 @@
+# List of Crates:
+crates.io
+
+# Crate Documentation:
+docs.rs
+
+# Add a Create to Project:
+$ cargo add <name of crate>

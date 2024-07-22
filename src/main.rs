@@ -18,9 +18,14 @@ impl Deck {
         }
         Deck { cards }
     }
+
+    fn shuffle(&self) {
+
+    }
 }
 
 fn main() {
     let deck = Deck::new();
+    deck.shuffle();
     println!("Here is your deck: {:#?}", deck);
 }
